@@ -1,0 +1,25 @@
+mode: atomic
+github.com/maolonglong/queue/lock_free_queue.go:19.40,22.2 2 2
+github.com/maolonglong/queue/lock_free_queue.go:24.48,26.6 2 4086783
+github.com/maolonglong/queue/lock_free_queue.go:26.6,29.28 3 8049651
+github.com/maolonglong/queue/lock_free_queue.go:29.28,30.19 1 6800074
+github.com/maolonglong/queue/lock_free_queue.go:30.19,31.33 1 6230168
+github.com/maolonglong/queue/lock_free_queue.go:31.33,35.6 3 4086783
+github.com/maolonglong/queue/lock_free_queue.go:36.10,38.5 1 569906
+github.com/maolonglong/queue/lock_free_queue.go:43.47,44.6 1 2039966
+github.com/maolonglong/queue/lock_free_queue.go:44.6,48.28 4 2277659
+github.com/maolonglong/queue/lock_free_queue.go:48.28,49.20 1 2165645
+github.com/maolonglong/queue/lock_free_queue.go:49.20,50.20 1 0
+github.com/maolonglong/queue/lock_free_queue.go:53.5,53.29 1 0
+github.com/maolonglong/queue/lock_free_queue.go:50.20,52.6 1 0
+github.com/maolonglong/queue/lock_free_queue.go:54.10,56.33 2 2165645
+github.com/maolonglong/queue/lock_free_queue.go:56.33,59.6 2 2039966
+github.com/maolonglong/queue/lock_free_queue.go:65.38,67.2 1 0
+github.com/maolonglong/queue/lock_free_queue.go:69.36,71.2 1 33259589
+github.com/maolonglong/queue/lock_free_queue.go:73.50,76.2 1 13052502
+github.com/maolonglong/queue/simple_mutex_queue.go:10.46,12.2 1 2
+github.com/maolonglong/queue/simple_mutex_queue.go:14.51,18.2 3 6662689
+github.com/maolonglong/queue/simple_mutex_queue.go:20.50,23.22 3 3330504
+github.com/maolonglong/queue/simple_mutex_queue.go:26.2,28.10 3 3330504
+github.com/maolonglong/queue/simple_mutex_queue.go:23.22,25.3 1 0
+github.com/maolonglong/queue/simple_mutex_queue.go:31.41,35.2 3 0
